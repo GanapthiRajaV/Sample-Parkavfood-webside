@@ -7,7 +7,7 @@
 :root{
     --primay-color:#756444 ;
     --secondary-color: #cbaf6f;
-    --bg-color: #c1b177;
+    --bg-color: #e3e3e3;
     --tersory-color: #996404ed;
 
 
@@ -213,7 +213,9 @@ header{
 .deleveryvido video{
     height: 500px;
 }
-
+.tab-section{
+    background: #040300;
+}
 .alltabs-items img{
     height: 200px;
 }
@@ -240,7 +242,7 @@ footer span{
 }
 
 footer{
-    background: var(--bg-color);
+    background: #e3e3e3;
     padding: 60px 0;
 }
 
